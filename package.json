@@ -1,7 +1,7 @@
 {
-  "name": "simplefolio",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "Portfolio",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.js --open",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "git+https://github.com/jordanduran/portfolio2"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Jordan Duran",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
+    "url": "https://github.com/jordanduran/portfolio2/issues"
   },
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
+  "homepage": "https://github.com/jordanduran/portfolio2",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.2.0",
